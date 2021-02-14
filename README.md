@@ -1,3 +1,5 @@
 # Dialogflow
 Dialogflow Addition and Multiplication
-The basic use of how  webhooks work and how to detect which intent is triggred and how the Flask app adds the two numbers
+1. The basic use of how  webhooks work 
+2. How to detect which intent is triggred by the user 
+3. How the Flask app adds the two numbers

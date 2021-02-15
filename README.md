@@ -12,3 +12,4 @@ Please address your query as
 
 `Add 2 and 2 or Mulitply 3 and 3`
 
+You can always begin with Hi or anything you'd like to greet the bot in English.
